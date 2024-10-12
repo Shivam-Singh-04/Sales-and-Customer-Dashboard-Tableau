@@ -1,7 +1,7 @@
 # Sales-and-Customer-Dashboard-Tableau
 Here you can find all the related files to complete this project!
 
-Intorduction
+Intorduction:<br>
 This user story outlines the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers. 
 
 Sales Dashboard | Requirements
